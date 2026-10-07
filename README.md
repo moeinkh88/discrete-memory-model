@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23211844.svg)](https://doi.org/10.5281/zenodo.23211844)
+
 # Memory as a Mechanistic Perspective on Rise and Decline in Complex Systems
 
 This repository contains the Python code to reproduce the discrete memory simulations and figures for the manuscript *Memory as a Mechanistic Perspective on Rise and Decline in Complex Systems*.
